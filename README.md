@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ 🧑‍💻 I’m Gilberto Diaz and currently developing web projects with  JS, React, Redux, Tailwind CSS, PostgreSQL, NODE, Sequelize and  I've also made video games with C# & Unity 🎮      ...
+
 <!--
 **Gitbertod/gitbertod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
