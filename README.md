@@ -1,6 +1,10 @@
 ### Hi there 👋
 
- 🧑‍💻 I’m Gilberto Diaz and currently developing web projects with  JS, React, Redux, Tailwind CSS, PostgreSQL, NODE, Sequelize and  I've also made video games with C# & Unity 🎮      ...
+ 🧑‍💻 Welcome to my GitHub profile! I am a frontend developer with a passion for web design and a background in game development. Proficient in JavaScript, React, Node.js, Sequelize, and Redux, I recently graduated from a web technologies bootcamp, where I honed my skills in React, Node.js, PostgreSQL, Express, and Redux.
+
+In addition to my web development expertise, I have experience in game development using Unity and C#. My creative approach and love for design have driven me to master CSS and explore cutting-edge technologies like Three.js, which beautifully combine art and code.
+
+I am always eager to take on new challenges and contribute to exciting projects. Let's build something amazing together! 🎮      ...
 
 <!--
 **Gitbertod/gitbertod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
